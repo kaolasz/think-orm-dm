@@ -3,9 +3,9 @@
     "description": "thinkphp 达梦兼容包",
     "type": "library",
     "require": {
-        "topthink/think-orm": "^2.0",
-        "php": "^8.0.0",
-        "topthink/framework": "^6.0"
+        "topthink/think-orm": ">=2.0",
+        "php": ">=8.0.0",
+        "topthink/framework": ">=6.0"
     },
     "license": "MIT",
     "autoload": {
@@ -18,6 +18,5 @@
             "name": "kaolasz",
             "email": "kaolasz@126.com"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
