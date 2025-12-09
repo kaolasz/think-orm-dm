@@ -5,7 +5,7 @@
     "require": {
         "topthink/think-orm": "^2.0",
         "php": "^8.0.0",
-        "topthink/framework": "^6.0",
+        "topthink/framework": "^6.0"
     },
     "license": "MIT",
     "autoload": {
