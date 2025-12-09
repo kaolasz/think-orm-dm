@@ -1,0 +1,21 @@
+{
+    "name": "kaolasz/think-orm-dm",
+    "description": "thinkphp 达梦兼容包",
+    "type": "library",
+    "require": {
+        "topthink/think-orm": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "think\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kaolasz",
+            "email": "kaolasz@126.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
